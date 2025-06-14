@@ -96,10 +96,6 @@ The website is fully responsive and works on:
 - [LinkedIn](https://www.linkedin.com/in/ishaan-john-2325601b6/)
 - [GitHub](https://github.com/arther07)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
 **Ishaan John**
